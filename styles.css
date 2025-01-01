@@ -126,7 +126,7 @@ header nav ul li a {
 /* Services Section */
 #services {
   padding: 20px;
-  background-color: #eaeaea; /* Light grey for contrast */
+  background-color: black; /* Light grey for contrast */
   text-align: center;
 }
 
@@ -163,7 +163,7 @@ header nav ul li a {
 /* About Section */
 #about {
   padding: 20px;
-  background-color: #f4f4f4; /* Slightly darker grey for contrast */
+  background-color: black; /* Slightly darker grey for contrast */
   text-align: center;
 }
 
