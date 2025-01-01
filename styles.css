@@ -126,7 +126,9 @@ header nav ul li a {
 /* Services Section */
 #services {
   padding: 20px;
-  background-color: #f4f4f4;
+  background-image: url('services-bg.jpeg'); /* Add a construction-related image */
+  background-size: cover;
+  background-position: center;
   text-align: center;
 }
 
