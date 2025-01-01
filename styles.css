@@ -103,7 +103,7 @@ header nav ul li a {
 
 /* Hero Section */
 .hero {
-  background-image: url('construction-bg.jpg'); /* Add a construction-related image */
+  background-image: url('construction-bg.svg'); /* Add a construction-related image */
   background-size: cover;
   background-position: center;
   height: 70vh;
